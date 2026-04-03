@@ -1001,7 +1001,7 @@ Official skills from Notion's repositories — workspace-aware skills for captur
 <details>
 <summary><h3 style="display:inline">Development and Testing</h3></summary>
 
-- **- [Naxuye/Claude-code-skill-agent-Factory](https://github.com/Naxuye/Claude-code-skill-agent-Factory) - Skill-to-Agent Compiler: scans installed skills, combines matching ones, self-generates missing components, delivers production-ready runnable agents
+- **[Naxuye/Claude-code-skill-agent-Factory](https://github.com/Naxuye/Claude-code-skill-agent-Factory)** - Skill-to-Agent Compiler: scans installed skills, combines matching ones, self-generates missing components, delivers production-ready runnable agents
 - **[robzolkos/skill-rails-upgrade](https://github.com/robzolkos/skill-rails-upgrade)** - Analyze Rails apps and provide upgrade assessments
 - **[Shpigford/screenshots](https://github.com/Shpigford/skills/tree/main/screenshots)** - Generate marketing screenshots with Playwright
 - **[antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill)** - Terraform infrastructure as code best practices
